@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lukthegamer101
+- 👀 I’m interested in coding(mostly games, general programs when learning/exploring new things), 3d modeling, and pixel art 
+- 🌱 I’m currently learning Java, C#, Blender, and Aseprite
